@@ -32,5 +32,11 @@ public class CharacterData : ScriptableObject
 
 public enum CharacterCategory
 {
-    // Add your own categories (e.g., Warrior, Mage, Support)
+    Warrior,
+    Mage,
+    Healer,
+    Tank,
+    Assassin,
+    Support,
+    Ranger
 }

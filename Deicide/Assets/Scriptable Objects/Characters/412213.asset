@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5245cdbdc5d40bd46b573e238eb31699, type: 3}
+  m_Name: 412213
+  m_EditorClassIdentifier: 
+  characterName: 10011010
+  characterBio: idk at this point
+  attack: 10
+  health: 100
+  speed: 1
+  category: 6
+  moves:
+  - {fileID: 11400000, guid: 675d923cbb9500d4c94fb5445a69fa24, type: 2}
+  - {fileID: 11400000, guid: f606dbf824e944a48b4aff2f17576b5c, type: 2}
+  - {fileID: 11400000, guid: 349f8af1b58a56048a2779a3974fdfc9, type: 2}
+  - {fileID: 11400000, guid: 675d923cbb9500d4c94fb5445a69fa24, type: 2}
