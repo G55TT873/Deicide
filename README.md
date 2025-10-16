@@ -1,4 +1,4 @@
-##Implemented Features
+# Implemented Features
 1. CombatManager Overhaul
 
 Fully restructured the combat flow using a single coroutine-driven turn system.
@@ -107,7 +107,7 @@ Automatically clears older messages.
 
 Added developer-friendly logging to the Unity console for traceability.
 
-##Technical Summary
+# Technical Summary
 
 | Component                       | Description                                                     |
 | ------------------------------- | --------------------------------------------------------------- |
@@ -118,7 +118,7 @@ Added developer-friendly logging to the Unity console for traceability.
 | **UI Prefabs**                  | Move and target buttons instantiated dynamically during combat. |
 | **EnemyDummy Asset**            | Simple ScriptableObject-based enemy used for combat testing.    |
 
-##Current Status
+# Current Status
 
 | Category                               | Status                              |
 | -------------------------------------- | ----------------------------------- |
